@@ -5,8 +5,8 @@ Usage:
 ```bash
 ciscodnd ip dnd/-dnd
 ```
-dnd option enables "Do not disturb"
--dnd option enables "Do not disturb"
+* dnd option: Enables "Do not disturb"
+* -dnd option Enables "Do not disturb"
 
 For example: 
 ```bash
