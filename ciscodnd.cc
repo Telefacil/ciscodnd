@@ -98,7 +98,7 @@ void mandar_dnd(const char* ip, char* request, char* query) {
 //-------------------------------------------------------------------------------------------------------
 
 int main(int argc, char** argv) {
-  const char* uso = "\nUso: %s ip_address dnd/-dnd\n\n";
+  const char* uso = "\nUsage: %s ip_address dnd/-dnd\n\n";
   if (argc != 3) {
     printf(uso, argv[0]);
     return -1;
