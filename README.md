@@ -7,10 +7,15 @@ In an office with many employees the telephones if not turned off may ring and r
 ## How it works?
 Usage: 
 ```bash
-ciscodnd ip dnd/-dnd
+[sudo] ciscodnd [ip] dnd/-dnd
 ```
 * dnd option: Enables "Do not disturb"
 * -dnd option: Disables "Do not disturb"
+* If you don't provide an IP, you have to put it on "config" file, like the example
+```
+ip=192.168.0.78
+```
+* Depending on your temporary directory permissions, you have to run it with sudo (only Linux and macOS)
 
 For example: 
 ```bash
