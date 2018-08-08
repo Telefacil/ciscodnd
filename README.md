@@ -27,6 +27,7 @@ ciscodnd 192.168.0.78 dnd #Enables "Do not disturb" on phone with that IP
 You just need to run:
 ```bash
 make
+sudo make install 
 ```
 
 ### Compile on Windows
