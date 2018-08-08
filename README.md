@@ -23,11 +23,17 @@ ciscodnd 192.168.0.78 dnd #Enables "Do not disturb" on phone with that IP
 ```
 
 ## How to compile it?
-### Compile on Linux or macOS
-You just need to run:
+### Compile on Linux
 ```bash
 make
 sudo make install 
+```
+
+## How to compile it?
+### Compile on macOS
+```bash
+make -f Makefile.macOS
+sudo make -f Makefile.macOS install
 ```
 
 ### Compile on Windows
