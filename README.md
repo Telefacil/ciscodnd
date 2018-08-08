@@ -23,6 +23,8 @@ make
 ### Compile on Windows
 Run Visual Studio and build the project.
 
+Check that you have Microsoft Visual C++ Redistributable Package installed.
+
 ## About us
 
 Check one of our services (in Spanish):
