@@ -1,12 +1,16 @@
 # ciscodnd
-Do not disturb (dnd) application for Cisco phones.
+To enable and disable the dnd (do not disturb) feature on Cisco SPA phones. 
+
+## Why?
+In an office with many employees the telephones if not turned off may ring and ring without the owner to take it. When runned on the startup and shutdown scripts the telephone will be only operative when the computer is on.
+
 ## How it works?
 Usage: 
 ```bash
 ciscodnd ip dnd/-dnd
 ```
 * dnd option: Enables "Do not disturb"
-* -dnd option Enables "Do not disturb"
+* -dnd option: Disables "Do not disturb"
 
 For example: 
 ```bash
@@ -25,9 +29,16 @@ Run Visual Studio and build the project.
 
 Check that you have Microsoft Visual C++ Redistributable Package installed.
 
+## Information and compiled version in Windows and macOS
+
+### En Español 
+
+### In English 
+
+
 ## About us
 
-Check one of our services (in Spanish):
+Check one of our services (in Spanish) or if you are in Spain and need a virtual PBX.
 https://www.telefacil.com/centralita-virtual.php
 
 Our company (in Spanish):
