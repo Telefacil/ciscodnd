@@ -19,5 +19,5 @@ Run Visual Studio and build the project.
 Check one of our services (in Spanish):
 https://www.telefacil.com/centralita-virtual.php
 
-Our company:
+Our company (in Spanish):
 https://www.duocom.es/
